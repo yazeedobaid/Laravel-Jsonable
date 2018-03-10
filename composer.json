@@ -1,0 +1,20 @@
+{
+    "name": "obaid/jsonable",
+    "description": "Eloquent like style for quering a JSON field in a MYSQL database",
+    "keywords": ["laravel", "framework", "Laravel-jsonable", "Laravel Jsonable", "Yazeed Obaid", "Obaid"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yazeed Obaid",
+            "email": "ya-zeed95@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Obaid\\Jsonable\\": "src/"
+        }
+    }
+}
