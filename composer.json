@@ -1,5 +1,5 @@
 {
-    "name": "YazeedObaid/jsonable",
+    "name": "yazeed-obaid/jsonable",
     "description": "Eloquent like style for quering a JSON field in a MYSQL database",
     "keywords": ["laravel", "framework", "Laravel-jsonable", "Laravel Jsonable", "Yazeed Obaid", "Obaid"],
     "type": "library",
