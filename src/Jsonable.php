@@ -1,6 +1,6 @@
 <?php
 
-namespace Obaid\Jsonable;
+namespace YazeedObaid\Jsonable;
 
 
 use Illuminate\Database\Eloquent\Builder;

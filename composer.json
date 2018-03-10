@@ -1,5 +1,5 @@
 {
-    "name": "obaid/jsonable",
+    "name": "YazeedObaid/jsonable",
     "description": "Eloquent like style for quering a JSON field in a MYSQL database",
     "keywords": ["laravel", "framework", "Laravel-jsonable", "Laravel Jsonable", "Yazeed Obaid", "Obaid"],
     "type": "library",
@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Obaid\\Jsonable\\": "src/"
+            "YazeedObaid\\Jsonable\\": "src/"
         }
     }
 }
