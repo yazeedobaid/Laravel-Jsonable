@@ -1,5 +1,5 @@
 # Laravel-Jsonable
-
+Eloquent like style for quering a JSON field in a MYSQL database.
 
 ## Installation
 
