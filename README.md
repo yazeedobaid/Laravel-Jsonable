@@ -6,7 +6,7 @@ Eloquent like style for quering a JSON field in a MYSQL database.
 Require this package, with [Composer](https://getcomposer.org/), in the root directory of your project.
 
 ``` bash
-$ composer require yazeed-obaid/jsonable
+$ composer require yazeedobaid/jsonable
 ```
 
 ## Usage
